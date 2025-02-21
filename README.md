@@ -72,4 +72,3 @@ yaptığını anlamak, yazılım geliştirme sürecinde çok önemli bir beceri.
 
 Bu hatalı testle, doğru test yazma pratiği yaparak nasıl testlerin başarısız olacağını gözlemleyebileceğimi öğrendim. Ayrıca, testlerimin zamanla daha iyi olmasını sağlamak için bu başarısız testlerin gerçekçi senaryolara göre nasıl geliştirilmesi gerektiğini de fark ettim. 
 
-Sonuç: Test yazmak, kodunuzu daha güvenilir ve hatasız hale getirmek için çok önemli bir adımdır. Hatalı testlerle ilgili farkındalık kazanmak, doğru test yazma sürecinin bir parçasıdır.
